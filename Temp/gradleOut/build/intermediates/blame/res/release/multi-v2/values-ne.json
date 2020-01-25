@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ne/values-ne.xml",
+            "map": [
+                {
+                    "source": "/Users/rajat/.gradle/caches/transforms-2/files-2.1/fa9b0dba183e1940ae2bf7634c7c7461/res/values-ne/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,245,303,421,540",
+                        "endColumns": "54,57,117,118,78",
+                        "endOffsets": "244,302,420,539,618"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,114,176,298,421",
+                        "endColumns": "58,61,121,122,82",
+                        "endOffsets": "109,171,293,416,499"
+                    }
+                }
+            ]
+        }
+    ]
+}

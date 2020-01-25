@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/build/intermediates/res/merged/release/layout___arcore_education.xml.flat",
+        "source": "/Users/rajat/.gradle/caches/transforms-2/files-2.1/fa9b0dba183e1940ae2bf7634c7c7461/res/layout/__arcore_education.xml"
+    },
+    {
+        "merged": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-hdpi_app_icon.png.flat",
+        "source": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/res/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-ldpi_app_icon.png.flat",
+        "source": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/res/mipmap-ldpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/res/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi_app_banner.png.flat",
+        "source": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/res/drawable-xhdpi/app_banner.png"
+    },
+    {
+        "merged": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/build/intermediates/res/merged/release/raw_keep_arcore.xml.flat",
+        "source": "/Users/rajat/.gradle/caches/transforms-2/files-2.1/fa9b0dba183e1940ae2bf7634c7c7461/res/raw/keep_arcore.xml"
+    },
+    {
+        "merged": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/res/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_app_icon.png.flat",
+        "source": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xhdpi_app_icon.png.flat",
+        "source": "/Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/res/mipmap-xhdpi/app_icon.png"
+    }
+]
