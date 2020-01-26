@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:17:1-46:12
+MERGED from [:arcore_unity:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/e0412e065d91dcfc3332cc707dd8c9c2/AndroidManifest.xml:2:1-8:12
+MERGED from [:google_ar_required:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/94d11f9120fde5f83bbd479e599432c2/AndroidManifest.xml:2:1-11:12
+MERGED from [:unityandroidpermissions:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/4890edf651865451af82e3f506248ef7/AndroidManifest.xml:6:1-15:12
+MERGED from [:unitygar:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/ed72d629d3243f98ae7e4a50b5c93e93/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-100
+		INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:101-147
+	android:versionCode
+		INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:148-188
+supports-screens
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-18:17
+MERGED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:30:5-44:19
+MERGED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:30:5-44:19
+MERGED from [:arcore_unity:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/e0412e065d91dcfc3332cc707dd8c9c2/AndroidManifest.xml:5:5-6:19
+MERGED from [:arcore_unity:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/e0412e065d91dcfc3332cc707dd8c9c2/AndroidManifest.xml:5:5-6:19
+MERGED from [:google_ar_required:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/94d11f9120fde5f83bbd479e599432c2/AndroidManifest.xml:7:5-9:19
+MERGED from [:google_ar_required:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/94d11f9120fde5f83bbd479e599432c2/AndroidManifest.xml:7:5-9:19
+	android:label
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:4:58-89
+	android:banner
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:4:145-182
+	android:theme
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:4:123-144
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:5:141-172
+	android:hardwareAccelerated
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:5:355-390
+	android:configChanges
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
+meta-data#unity.tango-enable
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-73
+	android:value
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:13:50-70
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-49
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-88
+	android:value
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:14:65-85
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-64
+meta-data#unity.build-id
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-101
+	android:value
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:15:46-98
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:16:5-69
+	android:value
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:16:49-66
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:16:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:17:5-74
+	android:value
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:17:51-71
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:17:16-50
+uses-feature#0x00020000
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-52
+	android:glEsVersion
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:19:17-49
+uses-permission#android.permission.CAMERA
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-63
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:20:20-60
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-65
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:21:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-88
+	android:required
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:22:61-85
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:22:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:23:3-99
+	android:required
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:23:72-96
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:23:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:24:3-108
+	android:required
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:24:81-105
+	android:name
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:24:17-80
+uses-sdk
+INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+MERGED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:26:5-28:41
+MERGED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:26:5-28:41
+MERGED from [:google_ar_required:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/94d11f9120fde5f83bbd479e599432c2/AndroidManifest.xml:6:5-43
+MERGED from [:google_ar_required:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/94d11f9120fde5f83bbd479e599432c2/AndroidManifest.xml:6:5-43
+MERGED from [:unityandroidpermissions:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/4890edf651865451af82e3f506248ef7/AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/4890edf651865451af82e3f506248ef7/AndroidManifest.xml:11:5-13:41
+MERGED from [:unitygar:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/ed72d629d3243f98ae7e4a50b5c93e93/AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygar:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/ed72d629d3243f98ae7e4a50b5c93e93/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:33:9-39:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:36:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:38:13-43
+	android:exported
+		ADDED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:37:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:35:13-74
+	android:theme
+		ADDED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:39:13-77
+	android:name
+		ADDED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:34:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:41:9-43:41
+	android:value
+		ADDED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:43:13-38
+	android:name
+		ADDED from [:arcore_client:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/dceb9486cbc07f8aa6214409544195ac/AndroidManifest.xml:42:13-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12 reason: third_party.arcore.ar.unity has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12 reason: third_party.arcore.ar.unity has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/rajat/UnityProjects/PathMarkAR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12 reason: third_party.arcore.ar.unity requested WRITE_EXTERNAL_STORAGE
+meta-data#com.google.ar.core
+ADDED from [:google_ar_required:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/94d11f9120fde5f83bbd479e599432c2/AndroidManifest.xml:8:9-81
+	android:value
+		ADDED from [:google_ar_required:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/94d11f9120fde5f83bbd479e599432c2/AndroidManifest.xml:8:54-78
+	android:name
+		ADDED from [:google_ar_required:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/94d11f9120fde5f83bbd479e599432c2/AndroidManifest.xml:8:20-53
+uses-feature#android.hardware.camera.ar
+ADDED from [:google_ar_required:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/94d11f9120fde5f83bbd479e599432c2/AndroidManifest.xml:10:5-86
+	android:required
+		ADDED from [:google_ar_required:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/94d11f9120fde5f83bbd479e599432c2/AndroidManifest.xml:10:61-84
+	android:name
+		ADDED from [:google_ar_required:] /Users/rajat/.gradle/caches/transforms-2/files-2.1/94d11f9120fde5f83bbd479e599432c2/AndroidManifest.xml:10:19-60
