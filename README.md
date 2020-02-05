@@ -8,6 +8,7 @@ An augmented reality indoor navigation app made using Google ARCore and Unity
 
 *This was made at **NITK Surathkal** for **HackVerse** by team **Array[] yaar;***
 
+>**Note:** The project has been permanently moved to [ashishgopalhattimare/PathMarkAR](https://github.com/ashishgopalhattimare/PathMarkAR/). Kindly check out that repository for the latest updates.
 
 
 ## Getting Started
